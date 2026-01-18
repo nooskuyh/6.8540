@@ -1,2 +1,3 @@
-# 6.8540
-# 6.8540
+6.5840: Distributed Systems
+
+MapReduce & Raft
